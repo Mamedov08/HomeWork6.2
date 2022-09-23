@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HomeWork6.2</string>
+    <string name="Username">Имя пользователя</string>
+    <string name="Password">Пароль</string>
+</resources>
